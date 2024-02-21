@@ -1,1 +1,1 @@
-/images/resume.png
+![/images/resume.png]
